@@ -718,6 +718,14 @@ body {
     margin: 0;
   }
 
+  .press {
+    order: 1;
+  }
+
+  .us {
+    order: 1;
+  }
+  
   .contact {
     margin: 0;
     margin-top: 63px;
